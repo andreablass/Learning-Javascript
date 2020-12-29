@@ -15,3 +15,4 @@ var c2 = 5
 console.log(miSuma(4,6, 7))
 
 console.log(miSuma(a2,b2, c2))
+
